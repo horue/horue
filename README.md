@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[ContributionGraph](https://github-readme-activity-graph.vercel.app/graph?username=horue&theme=github-compact)
+[![ContributionGraph](https://github-readme-activity-graph.vercel.app/graph?username=horue&theme=github-compact)]
 
 <!--
 **horue/horue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
